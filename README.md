@@ -1,1 +1,1 @@
-# Script-Authorization-and-link-follower-
+# Script Authorization and follow the link
